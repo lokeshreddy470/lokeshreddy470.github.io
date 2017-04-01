@@ -1,0 +1,32 @@
+ @import url('https://fonts.googleapis.com/css?family=Bahiana|Barrio');
+
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+body {
+    background-color: lightpink;
+}
+  .button {
+  	align-content: center;
+  }
+  .para1 {
+  	color:black;
+  	font-size: 30px;
+  	font-family: Bahiana;
+  }
+.bg-primary {
+    
+    background-color: #e8179b;
+}
+.col-lg-3 img{
+    height:250px;
+}
+.Gallary img{
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.btn-primary {
+      background-color: #e8179b;
+}
